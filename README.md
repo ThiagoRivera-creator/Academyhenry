@@ -1,2 +1,3 @@
-# Academyhenry
-aprender a manejar los respositorios
+# Academyhenry fullsatck
+aprender a manejar los respositorio 
+clonar de git hub a local
